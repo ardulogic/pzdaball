@@ -1,1 +1,0 @@
-[{"team_name":"as","players":[{"nick_name":"asdfasdf","score":0},{"nick_name":"asfd","score":0},{"nick_name":"asdf","score":0}]}]
